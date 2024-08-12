@@ -13,6 +13,8 @@ To host static websites no need of servers. And S3 hosts only static websites. I
    1. Can keep track of deployed website with no maintanence.
    2. Always Virtually available until we delete the bucket.
    3. Cost effective ( No server Costs).
+
+      #it works
       
 *How to host static website on AWS S3.*
 
